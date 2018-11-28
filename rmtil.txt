@@ -5,3 +5,6 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Script to remove ~ files
 
+
+On SOA DOA OIT windows 10 workstation install to:
+   ~/MobaXterm/slash/bin/
