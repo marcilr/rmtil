@@ -3,5 +3,5 @@ Created Wed, Nov 28, 2018  8:36:30 AM
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Xcript to remove ~ files
+Script to remove ~ files
 
