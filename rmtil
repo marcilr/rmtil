@@ -1,0 +1,7 @@
+# rmtil
+# Created Wed, Nov 28, 2018  8:47:48 AM
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Script to remote ~ files
+#
+rm *~
